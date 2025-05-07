@@ -1,6 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="RunManager">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e7de9b7-a44e-402d-bc3d-2d2b0ad9e024" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2wj3f7AO1PtnmDvrGgAyQVk3M0H" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ContaTerminal.executor": "Run",
+    "Application.EstudoCasoDoWhile.executor": "Run",
+    "Application.EstudoCasoFor.executor": "Run",
+    "Application.EstudoExcecao.executor": "Run",
+    "Application.FormatadorCepExemplo.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/elvis/projetos/DIO/bradesco-java-cloud-native/ContaBanco/desafios/sintaxe/pom.xml"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.FormatadorCepExemplo">
     <configuration name="ContaTerminal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="br.com.elvisassis.ContaTerminal" />
       <module name="ContaBanco" />
@@ -14,10 +58,77 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EstudoCasoDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.elvisassis.EstudoCasoDoWhile" />
+      <module name="ContaBanco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.elvisassis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudoCasoFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.elvisassis.EstudoCasoFor" />
+      <module name="ContaBanco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.elvisassis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstudoExcecao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.elvisassis.EstudoExcecao" />
+      <module name="ContaBanco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.elvisassis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FormatadorCepExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.elvisassis.FormatadorCepExemplo" />
+      <module name="ContaBanco" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.elvisassis.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatadorCepExemplo" />
+        <item itemvalue="Application.EstudoExcecao" />
+        <item itemvalue="Application.EstudoCasoDoWhile" />
+        <item itemvalue="Application.EstudoCasoFor" />
         <item itemvalue="Application.ContaTerminal" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e7de9b7-a44e-402d-bc3d-2d2b0ad9e024" name="Changes" comment="" />
+      <created>1746541255940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1746541255940</updated>
+    </task>
+    <servers />
   </component>
 </project>

@@ -1,0 +1,1 @@
+package br.com.elvisassis.exception;public class CepInvalidException extends Exception{}
