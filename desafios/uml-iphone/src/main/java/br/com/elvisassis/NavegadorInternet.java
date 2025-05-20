@@ -1,0 +1,1 @@
+package br.com.elvisassis;public interface NavegadorInternet {    void exibirPaginaAtual(String url);    void adicionarNovaAba();    void atualizarPagina();    void enviarEmail(String destinatario, String assunto, String corpo);    void receberEmail();}

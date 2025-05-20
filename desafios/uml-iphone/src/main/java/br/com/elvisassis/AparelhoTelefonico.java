@@ -1,0 +1,1 @@
+package br.com.elvisassis;public interface AparelhoTelefonico {    void fazerLigacao(String numero);    void atenderLigacao();    void iniciarCorreioVoz();    void adicionarContato(String nome, String numero);    void listarContatos();}

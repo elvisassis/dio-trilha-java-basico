@@ -1,0 +1,1 @@
+package br.com.elvisassis;public interface ReprodutoMusical {    void tocarMusica(String musica);    void pausarMusica();    void selecionarMusica();}

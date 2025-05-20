@@ -1,0 +1,1 @@
+package br.com.elvisassis.equipamentos.impressora;public interface Impressora {    public void imprimir();}

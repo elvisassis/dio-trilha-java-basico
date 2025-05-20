@@ -1,0 +1,1 @@
+package br.com.elvisassis.record;public record Person(String name, int age) {}

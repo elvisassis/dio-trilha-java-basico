@@ -1,0 +1,1 @@
+package br.com.elvisassis.equipamentos.copiadora;public interface Copiadora {    public void copiar();}
