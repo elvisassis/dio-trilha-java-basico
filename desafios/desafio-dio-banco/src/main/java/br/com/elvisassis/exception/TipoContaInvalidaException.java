@@ -1,0 +1,1 @@
+package br.com.elvisassis.exception;public class TipoContaInvalidaException extends RuntimeException {    public TipoContaInvalidaException() {        super("Opção invalida.");    }}

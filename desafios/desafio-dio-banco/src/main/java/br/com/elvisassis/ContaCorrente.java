@@ -1,0 +1,1 @@
+package br.com.elvisassis;import lombok.Getter;@Getterpublic class ContaCorrente extends Conta {    public ContaCorrente(Cliente cliente, double valor) {        super(cliente, valor);    }    @Override    public void imprimirExtrato() {        System.out.println("=== Extrato Conta Corrente ===");        super.imprimirInfosComuns();    }}

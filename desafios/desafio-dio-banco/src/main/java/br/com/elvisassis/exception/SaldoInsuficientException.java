@@ -1,0 +1,1 @@
+package br.com.elvisassis.exception;public class SaldoInsuficientException extends RuntimeException {    public SaldoInsuficientException() {        super("Não foi possível realizar a operação, pois o saldo é insuficiente.");    }}

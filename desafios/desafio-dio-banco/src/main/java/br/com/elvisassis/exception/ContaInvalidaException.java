@@ -1,0 +1,1 @@
+package br.com.elvisassis.exception;public class ContaInvalidaException extends RuntimeException {    public ContaInvalidaException() {        super("Conta não encontrada.");    }}
