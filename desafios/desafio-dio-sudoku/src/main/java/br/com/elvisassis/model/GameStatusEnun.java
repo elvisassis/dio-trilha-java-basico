@@ -1,0 +1,1 @@
+package br.com.elvisassis.model;public enum GameStatusEnun {    NON_STARTED("não iniciado"),    INCOMPLETE("incompleto"),    COMPLETE("completo");;    private String label;    GameStatusEnun(String label) {        this.label = label;    }    public String getLabel() {        return label;    }}

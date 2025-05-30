@@ -4,31 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f37213-8d22-495e-970f-9191b9a0cc9c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/Banco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/Cliente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/ContaCorrente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/ContaFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/ContaPoupanca.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/IConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/TipoConta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/exception/ContaInvalidaException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/exception/SaldoInsuficientException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/br/com/elvisassis/exception/TipoContaInvalidaException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../contador/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../contador/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../uml-iphone/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uml-iphone/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../uml-iphone/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../uml-iphone/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="74f37213-8d22-495e-970f-9191b9a0cc9c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
